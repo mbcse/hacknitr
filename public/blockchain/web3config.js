@@ -517,7 +517,7 @@ App={
         "type": "function"
       }
     ];
-    var address = "0x0543cA86fC449D982EBc4DB71ac6C53fCAf18Fb7";
+    var address = "0xACc1e45aA35b48ab18Bf89da9a392BF547F7eEd2";
     
     App.contract = new web3.eth.Contract(abi, address);
     
